@@ -30,3 +30,5 @@ edit with below configuration and add.
 - discard -> OK
 - SSD emulation -> OK
 - IOthread -> NOK
+
+you can find bootordeer options menu and change order, first one has to be our disk.
