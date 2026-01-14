@@ -32,3 +32,7 @@ edit with below configuration and add.
 - IOthread -> NOK
 
 you can find bootordeer options menu and change order, first one has to be our disk.
+
+final stage right click VM name and choose "convert to template" 
+
+finally you have a template VM so you can create VM from this one. 
